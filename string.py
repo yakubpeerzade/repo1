@@ -1,0 +1,5 @@
+x=input("Enter Some String:")
+print("\t\t***Slice Operator***")
+print(x[:])
+print(x[:len(x):2])
+print(x[1:0:-1])
